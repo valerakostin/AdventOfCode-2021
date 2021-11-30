@@ -1,25 +1,11 @@
 # AdventOfCode-2021
 
-Welcome to the Advent of Code[^aoc] Kotlin project created by [valerakostin][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
+Solutions to the [Advent Of Code 2021](https://adventofcode.com/2021) puzzles in Kotlin
 
-In this repository, valerakostin is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
+# Disclaimer
 
-If you stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
+In my solutions I tend to experiment with methodologies, programming styles and aspects of the language which are not a part of my daily job. That means that some solutions may look overengineered and not idiomatic, but they still return correct answers.
 
-- [Kotlin docs][docs]
-- [Kotlin Slack][slack]
-- Template [issue tracker][issues]
+|Day| Puzzle| Solution|
+|---|:-------|---------|
 
-
-[^aoc]:
-    [Advent of Code][aoc] – an annual event in December since 2015.
-    Every year since then, with the first day of December, a programming puzzles contest is published every day for twenty-four days.
-    A set of Christmas-oriented challenges provide any input you have to use to answer using the language of your choice.
-
-[aoc]: https://adventofcode.com
-[docs]: https://kotlinlang.org/docs/home.html
-[github]: https://github.com/valerakostin
-[issues]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template/issues
-[kotlin]: https://kotlinlang.org
-[slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
-[template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
