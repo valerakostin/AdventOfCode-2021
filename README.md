@@ -8,4 +8,5 @@ In my solutions I tend to experiment with methodologies, programming styles and 
 
 |Day| Puzzle| Solution|
 |---|:-------|---------|
+| 1 |[Sonar Sweep](https://adventofcode.com/2021/day/1) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day01.kt)|
 
