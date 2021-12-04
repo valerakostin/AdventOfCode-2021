@@ -50,19 +50,10 @@ class Card(private val fields: MutableMap<Int, Pair<Int, Int>>) {
     fun isReady() = isReady
 
     fun getSum() = fields.keys.sum()
-
 }
 
 
 fun main() {
-    fun part1(game: Game): Int {
-        return game.playGame()
-    }
-
-
-    fun part2(game: Game): Int {
-        return game.playLoseGame()
-    }
 
     fun parseInput(name: String): Game {
         val input = readInput(name)
@@ -97,6 +88,14 @@ fun main() {
         return Game(numbers, cards)
     }
 
+    fun part1(game: Game): Int {
+        return game.playGame()
+    }
+
+
+    fun part2(game: Game): Int {
+        return game.playLoseGame()
+    }
 
     val testGame = parseInput("Day04_test")
     check(part1(testGame) == 4512)
