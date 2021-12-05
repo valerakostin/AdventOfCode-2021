@@ -12,4 +12,6 @@ In my solutions I tend to experiment with methodologies, programming styles and 
 | 2 |[Dive!](https://adventofcode.com/2021/day/2) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day02.kt)|
 | 3 |[Binary Diagnostic](https://adventofcode.com/2021/day/3) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day03.kt)|
 | 4 |[Giant Squid](https://adventofcode.com/2021/day/4) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day04.kt)|
+| 5 |[Hydrothermal Venture](https://adventofcode.com/2021/day/5) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day05.kt)|
+
 
