@@ -14,5 +14,7 @@ In my solutions I tend to experiment with methodologies, programming styles and 
 | 4 |[Giant Squid](https://adventofcode.com/2021/day/4) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day04.kt)|
 | 5 |[Hydrothermal Venture](https://adventofcode.com/2021/day/5) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day05.kt)|
 | 6 |[Lanternfish](https://adventofcode.com/2021/day/6) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day06.kt)|
+| 7 |[The Treachery of Whales](https://adventofcode.com/2021/day/7) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day07.kt)|
+
 
 
