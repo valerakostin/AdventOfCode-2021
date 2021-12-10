@@ -17,6 +17,7 @@ In my solutions I tend to experiment with methodologies, programming styles and 
 | 7 |[The Treachery of Whales](https://adventofcode.com/2021/day/7) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day07.kt)|
 | 8 |[Seven Segment Search](https://adventofcode.com/2021/day/8) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day08.kt)|
 | 9 |[Smoke Basin](https://adventofcode.com/2021/day/9) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day09.kt)|
+| 10 |[Syntax Scoring](https://adventofcode.com/2021/day/10) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day10.kt)|
 
 
 
