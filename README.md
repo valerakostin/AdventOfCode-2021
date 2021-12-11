@@ -18,6 +18,7 @@ In my solutions I tend to experiment with methodologies, programming styles and 
 | 8 |[Seven Segment Search](https://adventofcode.com/2021/day/8) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day08.kt)|
 | 9 |[Smoke Basin](https://adventofcode.com/2021/day/9) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day09.kt)|
 | 10 |[Syntax Scoring](https://adventofcode.com/2021/day/10) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day10.kt)|
+| 11 |[Dumbo Octopus](https://adventofcode.com/2021/day/11) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day11.kt)|
 
 
 
