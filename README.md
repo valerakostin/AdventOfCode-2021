@@ -20,6 +20,7 @@ In my solutions I tend to experiment with methodologies, programming styles and 
 | 10 |[Syntax Scoring](https://adventofcode.com/2021/day/10) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day10.kt)|
 | 11 |[Dumbo Octopus](https://adventofcode.com/2021/day/11) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day11.kt)|
 | 12 |[Passage Pathing](https://adventofcode.com/2021/day/12) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day12.kt)|
+| 13 |[Transparent Origami](https://adventofcode.com/2021/day/13) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day13.kt)|
 
 
 
