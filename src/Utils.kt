@@ -18,3 +18,5 @@ fun <T> readInputWithTransform(name: String, transform: (String) -> T, filter: (
  * Converts string to md5 hash.
  */
 fun String.md5(): String = BigInteger(1, MessageDigest.getInstance("MD5").digest(toByteArray())).toString(16)
+
+data class Point(val x : Int, val y: Int)
