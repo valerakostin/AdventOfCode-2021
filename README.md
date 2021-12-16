@@ -23,6 +23,7 @@ In my solutions I tend to experiment with methodologies, programming styles and 
 | 13 |[Transparent Origami](https://adventofcode.com/2021/day/13) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day13.kt)|
 | 14 |[Extended Polymerization](https://adventofcode.com/2021/day/14) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day14.kt)|
 | 15 |[Chiton](https://adventofcode.com/2021/day/15) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day15.kt)|
+| 16 |[Packet Decoder](https://adventofcode.com/2021/day/16) |[Solution (Part1)](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day16.kt)|
 
 
 
