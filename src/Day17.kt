@@ -72,11 +72,11 @@ fun main() {
         return counter
     }
 
-    val testInput = parseInput(readInput("Day17_test")[0])
+    val testInput = readObject("Day17_test",::parseInput)
     check(part1(testInput) == 45)
-    val input = parseInput(readInput("Day17")[0])
-    println(part1(input))
-
     check(part2(testInput) == 112)
+
+    val input = readObject("Day17",::parseInput)
+    println(part1(input))
     println(part2(input))
 }

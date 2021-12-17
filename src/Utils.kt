@@ -9,6 +9,8 @@ fun readInput(name: String) = File("src", "$name.txt").readLines()
 
 fun readInts(name: String) = readInputWithTransform(name, { it.toInt() })
 
+fun <T> readObject(name: String, transform: (String) -> T) = transform(readInput(name)[0])
+
 fun readIntLine(name: String) = readInput(name)[0].split(",").map { it.toInt() }.toList()
 
 fun <T> readInputWithTransform(name: String, transform: (String) -> T, filter: (T) -> Boolean = { true }) =
