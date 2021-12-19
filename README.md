@@ -25,6 +25,7 @@ In my solutions I tend to experiment with methodologies, programming styles and 
 | 15 |[Chiton](https://adventofcode.com/2021/day/15) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day15.kt)|
 | 16 |[Packet Decoder](https://adventofcode.com/2021/day/16) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day16.kt)|
 | 17 |[Trick Shot](https://adventofcode.com/2021/day/17) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day17.kt)|
+| 18 |[Snailfish](https://adventofcode.com/2021/day/18) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day18.kt)|
 
 
 
