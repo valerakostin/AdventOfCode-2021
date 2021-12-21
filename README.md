@@ -27,6 +27,7 @@ In my solutions I tend to experiment with methodologies, programming styles and 
 | 17 |[Trick Shot](https://adventofcode.com/2021/day/17) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day17.kt)|
 | 18 |[Snailfish](https://adventofcode.com/2021/day/18) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day18.kt)|
 | 20 |[Trench Map](https://adventofcode.com/2021/day/20) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day20.kt)|
+| 21 |[Dirac Dice](https://adventofcode.com/2021/day/21) |[Solution (Part1)](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day21.kt)|
 
 
 
