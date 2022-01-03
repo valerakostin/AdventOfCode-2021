@@ -29,6 +29,7 @@ In my solutions I tend to experiment with methodologies, programming styles and 
 | 20 |[Trench Map](https://adventofcode.com/2021/day/20) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day20.kt)|
 | 21 |[Dirac Dice](https://adventofcode.com/2021/day/21) |[Solution (Part1)](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day21.kt)|
 | 22 |[Reactor Reboot](https://adventofcode.com/2021/day/22) |[Solution (Part1 Brute Force)](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day22.kt)|
+| 24 |[Arithmetic Logic Unit](https://adventofcode.com/2021/day/24) |[Solution](https://github.com/valerakostin/AdventOfCode-2021/blob/main/src/Day24.kt)|
 
 
 
